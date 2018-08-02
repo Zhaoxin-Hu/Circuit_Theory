@@ -1,4 +1,4 @@
-1. [Nodes and Branches](#nodebranch)
+1. [Nodes and Branches](#nodes-and-branches)
 1. [Terminals (Nodes), Ports, and Networks](#termportntwk)
 1. Branch and Nodal Voltages
 1. Branch and Loop Currents

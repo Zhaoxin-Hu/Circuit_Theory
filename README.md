@@ -3,3 +3,4 @@
 1. [Equations and Laws](eqn&law.md)
 1. [Network and Matrices](ntwk&mat.md)
 1. [Circuit Theory and EM Theory](ckt&em.md)
+1. [Some Maths](ma.md)
